@@ -1,0 +1,12 @@
+ALQ_H (Alcohol): WTMEC2YR
+BMX_H (Body Measures): WTMEC2YR
+BPQ_H (Blood Pressure & Cholesterol): WTINT2YR
+BPX_H (Blood Pressure): WTMEC2YR
+CDQ_H (Cardiovascular Health): WTINT2YR
+DEMO_H (Demographics): WTINT2YR
+DIQ_H (Diabetes): WTINT2YR
+GLU_H (Plasma Fasting Glucose): WTSFA2YR
+MCQ_H (Medical Conditions): WTINT2YR
+RXQ_RX_H (Prescription Medications): WTINT2YR
+SLQ_H (Sleep Disorders): WTINT2YR
+SMQ_H (Smoking - Cigarette Use): WTMEC2YR
